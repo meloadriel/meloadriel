@@ -11,7 +11,12 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,css,html,laravel,tailwind,php&perline=3" />
   </a>
+<<<<<<< HEAD
     <img height="30px" src="/assets/img/adriel.png"/>
+=======
+  <img src="/assets/img/adriel.png" align="right" display="block"/>
+
+>>>>>>> 070c16fa84f1ac0f6ef3155f5b93e1473dea1e9e
 </p>
 
 
