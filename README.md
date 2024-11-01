@@ -6,16 +6,14 @@
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meloadriel&layout=compact&theme=gruvbox"/>
 </div>
 
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Adriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Adriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Adriel-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img align="center" alt="Adriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Adriel-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
-  
-  <img align="right" alt="Driano-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/908400764022575147/992479470516707470/driano.png">
-</div>
+
+<p style="display: inline_block">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,css,html,laravel,tailwind,php&perline=3" />
+  </a>
+    <img src=""/>
+</p>
+
 
 ##
 
@@ -24,3 +22,4 @@
   <a href = "mailto:adrianosenny@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adriano-melo-3500a6234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
