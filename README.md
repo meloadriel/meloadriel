@@ -11,7 +11,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,css,html,laravel,tailwind,php&perline=3" />
   </a>
-    <img src=""/>
+    <img src="/assets/img/adriel.png"/>
 </p>
 
 
