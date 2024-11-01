@@ -11,7 +11,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,css,html,laravel,tailwind,php&perline=3" />
   </a>
-<img src="https://avatars.githubusercontent.com/u/156715232?s=400&u=79f6ed4f5d7cee68eabe1661e75f717fc8e8a78e&v=4">
 
 
 ##
