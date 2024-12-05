@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=fe8019&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-+vindo+ao+meu+perfil!+%E2%8A%B9" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=fe8019&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-+vindo+ao+meu+perfil+%E2%8A%B9" alt="Typing SVG">
   </a>
 </div>
 
 <img align="right" alt="" height="190px" src="./img/study.gif">
 
-<h3 align="left">Conecte-se comigo!</h3>
+<h3 align="left">Conecte-se Comigo!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Twitch-000?style=for-the-badge&logo=twitch&logoColor=fe8019&color:FFF)](mailto:adrielmelosantana@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=fe8019&color:FFF)](https)
