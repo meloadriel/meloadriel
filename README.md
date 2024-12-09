@@ -9,7 +9,7 @@
 <h3 align="left">Conecte-se Comigo!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Twitch-000?style=for-the-badge&logo=twitch&logoColor=fe8019&color:FFF)](mailto:adrielmelosantana@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=fe8019&color:FFF)](https)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=fe8019&color:FFF)]([https](https://www.linkedin.com/in/adriel-melo-774b41236/))
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=fe8019&color:FFF)](https://www.instagram.com/adrielkkkj/)
 
 
